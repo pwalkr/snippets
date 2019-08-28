@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 
+
 def main():
-    print("Called directly")
+    pass
+
 
 if __name__ == "__main__":
+    # Called directly
     main()
-else:
-    print("Included as module")
+# else included as a module
